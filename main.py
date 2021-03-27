@@ -13,3 +13,6 @@ def function3():
 
 def function4():
 	# Feature 4
+	
+def function5():
+	return "function 5"
