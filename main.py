@@ -10,3 +10,6 @@ def function2():
 
 def function3():
 	# Feature 3	
+
+def function4():
+	# Feature 4
